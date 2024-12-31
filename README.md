@@ -8,14 +8,14 @@ This Medical Diagnosis System is an expert system designed to assist healthcare 
 * **Inference Engine**: Utilizes Prolog's powerful inference capabilities to deduce possible conditions based on the given symptoms.
 * **Recommendations**: Provides suggestions for further tests or specialist consultations based on the inferred conditions.
 
-## Technologies Used
+## Technologies Used:
 * **Programming Language**: Prolog 
 * **Knowledge Representation**: Rule-based logic for storing and processing medical information.
 
 ## Usage
 To use the system, run the Prolog program and follow the prompts to input symptoms. The system will then provide potential diagnoses and recommendations.
 
-## Future Enhancements
+## Future Enhancements:
 * Expand the knowledge base with more medical conditions and symptoms.
   
 * Implement a graphical user interface (GUI) for improved user interaction.
